@@ -9,7 +9,7 @@ Approach: Simple implementation to understand the structure of landmarks and cam
 ```bash
 py -3.11 .qodo\main.py
 ```
-If you have multiple Python versions installed, this command ensures that you’re explicitly using Python 3.11. This is especially helpful if your default python or python3 points to a different version.)
+If you have multiple Python versions installed, this command ensures that you’re explicitly using Python 3.11. This is especially helpful if your default python or python3 points to a different version.
 However,to delve deeper into computer vision and take on more projects on CV, I decided to adjust my VS Code environment variables to permanently run using Python 3.11. So, yeah, that was a significant learning checkpoint, and it’s definitely something to keep in mind! )
 - MediaPipe library
 - OpenCV library
