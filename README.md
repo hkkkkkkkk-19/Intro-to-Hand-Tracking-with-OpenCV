@@ -12,9 +12,10 @@ Approach: Simple implementation to understand the structure of landmarks and cam
 1.Clone this repository.
 2.Install the required dependencies using pip install -r requirements.txt.
 ## Key Features
--Camera Initialization: Sets up the camera and captures frames.
--Frame Reversal: Frames are reversed for a correct mirror effect.
--Exit Mechanism: Press the Q key to exit the camera view.
+- Camera Initialization: Sets up the camera and captures frames.
+- Frame Reversal: Frames are reversed for a correct mirror effect.
+- Exit Mechanism: Press the Q key to exit the camera view.
+## Hand Tracking Landmark Structure
+This illustration helped me understand the geometry of how everything is tracked using landmarks in MediaPipe:
 
-Hand Tracking Landmark Structure:This illustration helped me understand the geometry of how everything is tracked using landmarks in MediaPipe:
 <img width="922" height="332" alt="2410344" src="https://github.com/user-attachments/assets/bed160dd-9e60-42a7-9970-d72b2c4b6ec6" />
